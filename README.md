@@ -1,2 +1,1 @@
-# goal_kicker
-GoalKicker: RL agent for scoring goals
+# GoalKicker: RL agent for scoring goals
